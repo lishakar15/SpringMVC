@@ -26,5 +26,6 @@
 </tr>
 
 </table>
+<a href ="contactInfo"> Contact Us</a>
 </body>
 </html>
